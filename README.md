@@ -6,7 +6,7 @@ Este proyecto trata sobre una empresa de logística de tipo Cross Docking la cua
 ## Tablas y Relaciones
 ### Tabla: `vendedores`
 Almacena información de los vendedores que envían sus productos al Centro de Distribución.
-- Campos:
+- **Campos:**
   - ID_VENDEDOR PK
   - NOMBRE_VENDEDOR
   - TIPO_VENDEDOR
