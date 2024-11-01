@@ -32,7 +32,7 @@ Almacena la información de cada producto recibido en el Centro de Distribución
   
 
 ### Tabla: `centro_de_distribucion`
-Almacena la información de cada producto recibido en el Centro de Distribución.
+Almacena la información del Centro de Distribución.
 - **Campos:**
   - ``
   - ``
@@ -44,7 +44,7 @@ Almacena la información de cada producto recibido en el Centro de Distribución
     Se relaciona con la tabla `` como llave foránea.
 
 ### Tabla: `operarios`
-Almacena la información de cada producto recibido en el Centro de Distribución.
+Almacena la información de los operarios del Centro de Distribución.
 - **Campos:**
   - ``
   - ``
@@ -56,7 +56,7 @@ Almacena la información de cada producto recibido en el Centro de Distribución
     Se relaciona con la tabla `` como llave foránea.
 
 ### Tabla: `categoría_operarios`
-Almacena la información de cada producto recibido en el Centro de Distribución.
+Almacena la información de cada operario del Centro de Distribución.
 - **Campos:**
   - ``
   - ``
@@ -68,7 +68,7 @@ Almacena la información de cada producto recibido en el Centro de Distribución
     Se relaciona con la tabla `` como llave foránea.
 
 ### Tabla: `shipment`
-Almacena la información de cada producto recibido en el Centro de Distribución.
+Almacena la información de cada shipment despachado desde el Centro de Distribución.
 - **Campos:**
   - ``
   - ``
@@ -80,7 +80,7 @@ Almacena la información de cada producto recibido en el Centro de Distribución
     Se relaciona con la tabla `` como llave foránea.
 
 ### Tabla: `clientes`
-Almacena la información de cada producto recibido en el Centro de Distribución.
+Almacena la información de cada cliente del Centro de Distribución.
 - **Campos:**
   - ``
   - ``
