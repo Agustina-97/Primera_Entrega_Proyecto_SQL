@@ -18,10 +18,77 @@ Almacena información de los vendedores que envían sus productos al Centro de D
     Se relaciona con la tabla `Productos` como llave foránea.
   
 ### Tabla: `productos`
+Almacena la información de cada producto recibido en el Centro de Distribución.
+- **Campos:**
+  - ``
+  - ``
+  - ``
+  - ``
+  - ``
+ 
+- **Relación:**
+    Se relaciona con la tabla `` como llave foránea.
+
+  
+
 ### Tabla: `centro_de_distribucion`
+Almacena la información de cada producto recibido en el Centro de Distribución.
+- **Campos:**
+  - ``
+  - ``
+  - ``
+  - ``
+  - ``
+ 
+- **Relación:**
+    Se relaciona con la tabla `` como llave foránea.
+
 ### Tabla: `operarios`
+Almacena la información de cada producto recibido en el Centro de Distribución.
+- **Campos:**
+  - ``
+  - ``
+  - ``
+  - ``
+  - ``
+ 
+- **Relación:**
+    Se relaciona con la tabla `` como llave foránea.
+
 ### Tabla: `categoría_operarios`
+Almacena la información de cada producto recibido en el Centro de Distribución.
+- **Campos:**
+  - ``
+  - ``
+  - ``
+  - ``
+  - ``
+ 
+- **Relación:**
+    Se relaciona con la tabla `` como llave foránea.
+
 ### Tabla: `shipment`
+Almacena la información de cada producto recibido en el Centro de Distribución.
+- **Campos:**
+  - ``
+  - ``
+  - ``
+  - ``
+  - ``
+ 
+- **Relación:**
+    Se relaciona con la tabla `` como llave foránea.
+
 ### Tabla: `clientes`
+Almacena la información de cada producto recibido en el Centro de Distribución.
+- **Campos:**
+  - ``
+  - ``
+  - ``
+  - ``
+  - ``
+ 
+- **Relación:**
+    Se relaciona con la tabla `` como llave foránea.
 
 
