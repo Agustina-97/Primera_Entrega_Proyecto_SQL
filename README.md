@@ -4,6 +4,7 @@ Proyecto SQL Bolt Shipping
 # Bolt Shipping Database
 Este proyecto trata sobre una empresa de logística de tipo Cross Docking la cual se encarga de recibir productos de diferentes vendedores en el Centro de Distribución donde los operarios procesan y despachan los envíos hacia los clientes de todo el país.
 ## Tablas y Relaciones
+
 ### Tabla: `vendedores`
 Almacena información de los vendedores que envían sus productos al Centro de Distribución.
 - **Campos:**
@@ -12,7 +13,10 @@ Almacena información de los vendedores que envían sus productos al Centro de D
   - TIPO_VENDEDOR
   - DOMICILIO_VENDEDOR
   - EMAIL_VENDEDOR
-    
+ 
+- **Relación:**
+    Se relaciona con la tabla 'Productos' como llave foránea.
+  
 ### Tabla: `productos`
 ### Tabla: `centro_de_distribucion`
 ### Tabla: `operarios`
