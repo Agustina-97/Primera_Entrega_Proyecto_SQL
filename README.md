@@ -15,7 +15,7 @@ Almacena información de los vendedores que envían sus productos al Centro de D
   - EMAIL_VENDEDOR
  
 - **Relación:**
-    Se relaciona con la tabla 'Productos' como llave foránea.
+    Se relaciona con la tabla `Productos` como llave foránea.
   
 ### Tabla: `productos`
 ### Tabla: `centro_de_distribucion`
