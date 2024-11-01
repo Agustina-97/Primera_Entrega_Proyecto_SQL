@@ -8,11 +8,11 @@ Este proyecto trata sobre una empresa de logística de tipo Cross Docking la cua
 ### Tabla: `vendedores`
 Almacena información de los vendedores que envían sus productos al Centro de Distribución.
 - **Campos:**
-  - ID_VENDEDOR PK
-  - NOMBRE_VENDEDOR
-  - TIPO_VENDEDOR
-  - DOMICILIO_VENDEDOR
-  - EMAIL_VENDEDOR
+  - `ID_VENDEDOR PK`
+  - `NOMBRE_VENDEDOR`
+  - `TIPO_VENDEDOR`
+  - `DOMICILIO_VENDEDOR`
+  - `EMAIL_VENDEDOR`
  
 - **Relación:**
     Se relaciona con la tabla `Productos` como llave foránea.
